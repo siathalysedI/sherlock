@@ -1,5 +1,6 @@
 7Cups
 APClips
+Airliners
 Apple Discussions
 Archive.org
 Bandcamp
@@ -26,6 +27,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
