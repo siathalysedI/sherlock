@@ -5,9 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+Carbonmade
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -29,8 +28,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -42,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
