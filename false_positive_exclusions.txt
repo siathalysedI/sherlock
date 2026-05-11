@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,16 +18,19 @@ LushStories
 Motherless
 Patched
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
