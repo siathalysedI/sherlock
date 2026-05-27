@@ -13,9 +13,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -36,6 +34,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
