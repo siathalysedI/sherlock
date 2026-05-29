@@ -5,14 +5,14 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
-Minecraft
+LessWrong
 Patched
 Rarible
 Realmeye
@@ -28,13 +28,13 @@ Spotify
 TryHackMe
 Velomania
 Weblate
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
