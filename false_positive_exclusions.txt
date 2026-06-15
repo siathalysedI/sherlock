@@ -15,8 +15,6 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
-LushStories
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -26,7 +24,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
