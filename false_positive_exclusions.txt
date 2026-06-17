@@ -5,18 +5,18 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
 LushStories
+Odysee
 Patched
 Rarible
 Realmeye
@@ -38,6 +38,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
