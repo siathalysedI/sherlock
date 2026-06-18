@@ -1,11 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -18,16 +19,17 @@ LessWrong
 LushStories
 Odysee
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
-RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -38,7 +40,8 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+threads
+xHamster
