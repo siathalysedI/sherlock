@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -15,11 +14,16 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
+LushStories
+Minecraft
 Odysee
 Patched
+Pornhub
 Rarible
 Realmeye
+RedTube
 Reddit
 Replit.com
 RocketTube
@@ -33,12 +37,13 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+YouPorn
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
