@@ -5,8 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Coders Rank
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -29,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
