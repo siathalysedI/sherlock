@@ -16,9 +16,10 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
+LiveJournal
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,6 +29,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -37,15 +39,13 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
