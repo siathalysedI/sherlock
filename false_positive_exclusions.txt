@@ -7,6 +7,8 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
+Carbonmade
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -17,9 +19,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LiveJournal
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -29,7 +29,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -42,10 +41,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
