@@ -7,8 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
-Carbonmade
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -20,6 +18,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -37,6 +36,7 @@ Spotify
 Trovo
 TryHackMe
 Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
