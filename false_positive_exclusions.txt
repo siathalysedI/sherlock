@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -20,6 +21,7 @@ LushStories
 Minecraft
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -31,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -43,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
