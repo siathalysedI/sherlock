@@ -16,6 +16,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Minecraft
 Odysee
 PCGamer
@@ -31,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Tenor
 Trovo
 TryHackMe
 Velomania
