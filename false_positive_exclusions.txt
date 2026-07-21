@@ -5,9 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,8 +15,8 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -31,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
