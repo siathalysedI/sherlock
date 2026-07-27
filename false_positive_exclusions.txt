@@ -16,7 +16,6 @@ Hubski
 LessWrong
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -31,7 +30,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
