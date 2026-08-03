@@ -6,7 +6,6 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -21,6 +20,7 @@ Hubski
 Instapaper
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,16 +28,16 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
