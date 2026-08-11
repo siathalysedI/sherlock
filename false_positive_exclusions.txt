@@ -1,10 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -14,14 +16,11 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -37,12 +36,15 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
