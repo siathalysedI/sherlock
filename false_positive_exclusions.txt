@@ -1,15 +1,14 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,8 +19,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LushStories
-Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -41,7 +40,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
