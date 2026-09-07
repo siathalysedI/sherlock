@@ -17,8 +17,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
+LiveJournal
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
