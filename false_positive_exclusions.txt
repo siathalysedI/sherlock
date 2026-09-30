@@ -1,6 +1,7 @@
 7Cups
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
@@ -18,6 +19,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
 LushStories
 ObservableHQ
 Odysee
