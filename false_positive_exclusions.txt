@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -24,6 +25,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -36,6 +38,7 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+Snapchat
 Splice
 Spotify
 Trakt
@@ -46,9 +49,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
-furaffinity
 hunting
 igromania
 interpals
