@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,7 +6,6 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -48,7 +46,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 interpals
@@ -57,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
