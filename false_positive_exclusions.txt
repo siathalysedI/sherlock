@@ -6,7 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+Blipfoto
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -17,7 +18,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -47,6 +47,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
@@ -54,4 +55,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
