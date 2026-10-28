@@ -2,6 +2,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -10,10 +11,10 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
+HackerRank
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -21,15 +22,14 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
