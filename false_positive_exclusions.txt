@@ -3,7 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -15,7 +14,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -44,4 +42,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
