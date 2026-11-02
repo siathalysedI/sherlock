@@ -1,9 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BoardGameGeek
+Audiojungle
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -15,12 +15,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -32,6 +30,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
