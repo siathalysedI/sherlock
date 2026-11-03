@@ -1,9 +1,7 @@
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
-Audiojungle
-Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -15,10 +13,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -39,6 +38,7 @@ fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
