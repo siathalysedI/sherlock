@@ -1,7 +1,8 @@
+APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -36,9 +37,9 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
