@@ -1,11 +1,14 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
 Cracked Forum
+Crevado
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -14,10 +17,13 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
