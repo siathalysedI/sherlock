@@ -1,8 +1,8 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -15,7 +15,7 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -41,7 +41,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
