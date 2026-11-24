@@ -2,7 +2,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -10,12 +9,13 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
